@@ -80,7 +80,7 @@ const TimeManagementDashboard = () => {
   return (
     <div className="max-w-2xl mx-auto p-6 bg-gray-100 rounded-lg shadow-lg">
       <h1 className="text-2xl font-bold mb-6 text-center flex items-center justify-center">
-        <Target className="mr-2" /> Personal Time Management Dashboard
+        <Target className="mr-2" /> React Time Management Dashboard
       </h1>
 
       {/* Pomodoro Timer */}
