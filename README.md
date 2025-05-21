@@ -2,7 +2,7 @@
 
 A personal productivity tool built with React to help you manage your time effectively, overcome procrastination, and achieve your goals.
 
-![alt text](https://github.com/honkeygenius/rtmd/tree/main/images/RTMD%20Screenshot%202025-05-12%20225244.jpg "React Time Management Dashboard")
+![alt text](https://github.com/honkeygenius/rtmd/raw/main/images/Screenshot%202025-05-21%20105208.jpg "React Time Management Dashboard")
 
 ## Features
 
